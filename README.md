@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Website implementation
+Independent responsive Next.js foundation with home, about, course catalog and course detail pages, enrollment enquiry endpoint, contact page, metadata and Supabase schema. See `.env.example` and `supabase/migrations/0001_initial.sql` for setup requirements.
